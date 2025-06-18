@@ -1,6 +1,6 @@
 # 👩‍💻 Tejasvini Kumawat
 
-**Full Stack Developer | MERN Stack | AI Integrator | STEM Scholar**  
+**Full Stack Developer | MERN Stack **  
 🎓 B.Tech (Information Technology) | PCCOE, Pune  
 🌐 [Portfolio Website](https://tejasvini-portfolio.vercel.app/)
 
