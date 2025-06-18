@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&pause=1000&color=F76C6C&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Tejasvini+Kumawat;Full+Stack+Web+Developer;Let's+build+something+amazing!💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&pause=1000&color=F76C6C&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Tejasvini+Kumawat;Full+Stack+Web+Developer;STEM+Scholar+%7C+AI+Enthusiast;Let's+build+something+amazing!💻" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 # 👩‍💻 Tejasvini Kumawat
 
-**Full Stack Developer | MERN Stack **
+**Full Stack Developer | MERN Stack | AI Integrator | STEM Scholar**
 
 🎓 Final Year B.Tech (IT) Student at PCCOE, Pune  
 💼 Seeking internship/full-time opportunities in software/web development  
