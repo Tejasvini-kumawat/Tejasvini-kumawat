@@ -9,7 +9,7 @@
 
 ---
 
-# 👩‍💻 Tejasvini Kumawat
+# ​​​ Tejasvini Kumawat
 
 **Full Stack Developer | MERN Stack**
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 GitHub at a Glance
+## ​ GitHub at a Glance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejasvini-kumawat&show_icons=true&theme=radical" height="180"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ​​ Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -50,38 +50,49 @@
 
 ---
 
-## 🚀 Featured Projects
+## ​ Featured Projects
 
-### 🧘‍♀️ [SheFlows](https://github.com/Tejasvini-kumawat/sheflows) · [🌐 Live Demo](https://sheflows.vercel.app)
-
-An AI-powered productivity and wellness management platform for women. Offers daily scheduling, task tracking, family care, hobby scheduling, and a Gemini-integrated chatbot for personalized work-life balance advice.
-
+### ​​​​ [SheFlows](https://github.com/Tejasvini-kumawat/sheflows) · [🌐 Live Demo](https://sheflows.vercel.app)  
+An AI-powered productivity and wellness platform for women, offering daily scheduling, task tracking, family care, hobby management, and a Gemini-integrated chatbot for personalized work-life balance tips.  
 > `MERN Stack` · `Google AI Studio (Gemini)` · `React Big Calendar` · `Cloudinary` · `Responsive Design`
 
 ---
 
-### 🏡 [NestFinder](https://github.com/Tejasvini-kumawat/nest-finder)
+###  **Genify-AI Content Generator** · Apr 2025 – June 2025  
+**Tech Stack:** Next.js 14 · React · TypeScript · Gemini API · Tailwind CSS · Clerk Auth · Stripe · Drizzle ORM · PostgreSQL · Vercel  
 
-A real estate search platform that helps users find and filter rental properties using price, location, and amenities. Integrated with Google Maps for precise location-based queries.
+**Live Demo:** [genify-ivory.vercel.app](https://genify-ivory.vercel.app/)  
+**Source Code:** [github.com/Tejasvini-kumawat/genify](https://github.com/Tejasvini-kumawat/genify)
 
-> `React` · `Express` · `MongoDB` · `Google Maps API` · `Tailwind CSS`
+A full-stack AI content generation platform built with Next.js and TypeScript, using the Gemini API to automate creation of blog posts, social media copy, and marketing content.
+
+**Highlights & Features**  
+- 🚀 **~70% faster content production** via templated prompts and batch generation  
+- 🔐 **Clerk authentication** with secure email & social login  
+- 💳 **Stripe payment integration** for subscriptions and usage billing  
+- 🧾 **Content versioning** with ~90% accuracy using Drizzle ORM and PostgreSQL  
+- ⚙️ **Efficient AI request orchestration**, caching of generated variants  
+- ☁️ **Deployed on Vercel**, with automated health checks targeting **99.9% uptime**  
+- ✅ **Type-safe codebase** with modular architecture, ideal for A/B testing and growth
+
+> `Next.js 14` · `React` · `TypeScript` · `Gemini API` · `Clerk Auth` · `Stripe Payments` · `Drizzle ORM` · `PostgreSQL` · `Vercel`
 
 ---
 
-## 📚 Certifications
+## ​ Certifications
 
-- 🥇 **Coding Ninjas** – *Introduction to C++ and DSA* (Excellence Certificate)
-- 🧠 **Udemy** – *Modern JavaScript From the Beginning 2.0*
+- 🥇 **Coding Ninjas** – *Introduction to C++ and DSA* (Excellence Certificate)  
+- 🧠 **Udemy** – *Modern JavaScript From the Beginning 2.0*  
 - 💡 **Udemy** – *Learn C++ Programming – Beginner to Advance*
 
 ---
 
-## 📬 Let's Connect
+## ​ Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejasvinikumawat05/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:tejasvini.kumawat2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Tejasvini-kumawat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel)](https://tejasvini-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejasvinikumawat05/)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:tejasvini.kumawat2004@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Tejasvini-kumawat)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel)](https://tejasvini-portfolio.vercel.app/)  
 [![Resume](https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1PNkp4YZAF4glIrNhVLJH4emIxEixlEYg/view?usp=sharing)
 
 ---
